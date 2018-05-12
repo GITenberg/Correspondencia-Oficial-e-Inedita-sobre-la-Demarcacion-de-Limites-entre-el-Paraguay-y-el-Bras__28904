@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8709
     wikipedia: http://es.wikipedia.org/wiki/F%C3%A9lix_de_Azara
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28904#Correspondencia-Oficial-e-Inedita-sobre-la-Demarcacion-de-Limites-entre-el-Paraguay-y-el-Bras_
 gutenberg_issued: '2009-05-21'
 gutenberg_type: Text
 identifiers:
