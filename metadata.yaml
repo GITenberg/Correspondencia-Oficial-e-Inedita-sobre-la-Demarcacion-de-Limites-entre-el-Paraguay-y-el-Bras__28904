@@ -1,0 +1,34 @@
+_repo: Correspondencia-Oficial-e-Inedita-sobre-la-Demarcacion-de-Limites-entre-el-Paraguay-y-el-Bras__28904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Azara, Félix de
+    aliases:
+    - Azara y Perera, Félix Francisco José Pedro de
+    - Azara, Felix de
+    - D'Azara, Félix
+    birthdate: 1742
+    deathdate: 1821
+    gutenberg_agent_id: '8709'
+    url: http://www.gutenberg.org/2009/agents/8709
+    wikipedia: http://es.wikipedia.org/wiki/F%C3%A9lix_de_Azara
+description: ''
+gutenberg_issued: '2009-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28904'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paraguay -- Boundaries -- Brazil'
+- !lcc 'F2661'
+- !lcsh 'Brazil -- Boundaries -- Paraguay'
+- !lcc 'F2501'
+title: Correspondencia Oficial e Inedita sobre la Demarcacion de Limites entre el
+  Paraguay y el Brasil
+url: http://www.gutenberg.org/ebooks/28904
